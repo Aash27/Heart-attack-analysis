@@ -1,5 +1,4 @@
-# Heart-attack-analysis
-Heart Attack Analysis with Jupyter Notebook
+**Heart Attack Analysis with Jupyter Notebook**
 Introduction
 This Jupyter Notebook provides a comprehensive analysis of heart attack data using Python. The purpose of this project is to explore, visualize, and analyze a dataset related to heart attacks to gain insights into potential risk factors and predictive factors.
 
@@ -9,8 +8,8 @@ The dataset used for this analysis is named "Heart Attack Analysis & Prediction"
 Requirements
 Before running this Jupyter Notebook, ensure you have the following Python libraries installed:
 
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+-Pandas
+-NumPy
+-Matplotlib
+-Seaborn
+-Scikit-learn
