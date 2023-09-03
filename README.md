@@ -27,34 +27,34 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 #** Analysis Overview**
 
 ## **Data Preprocessing:**
--Loading the dataset
--Exploring the dataset
--Handling missing values
--Data cleaning and transformation
+**-Loading the dataset**
+**-Exploring the dataset**
+**-Handling missing values**
+**-Data cleaning and transformation**
 
 ## **Data Visualization:**
--Visualizing the distribution of features
--Exploring correlations between variables
--Plotting graphs and charts to gain insights
+**-Visualizing the distribution of features**
+**-Exploring correlations between variables**
+**-Plotting graphs and charts to gain insights**
 
 ## **Machine Learning Model:**
--Splitting the dataset into training and testing sets
--Selecting relevant features
--Building a predictive model for heart attack prediction
+**-Splitting the dataset into training and testing sets**
+**-Selecting relevant features**
+**-Building a predictive model for heart attack prediction**
 
 ## **Model Evaluation:**
--Evaluating model performance using metrics such as accuracy, precision, recall, and F1-score
--Generating a confusion matrix
--Visualizing the model's performance
+**-Evaluating model performance using metrics such as accuracy, precision, recall, and F1-score**
+**-Generating a confusion matrix**
+**-Visualizing the model's performance**
 
 ## **Conclusion:**
--Summarizing the findings
--Drawing conclusions based on the analysis
+**-Summarizing the findings**
+**-Drawing conclusions based on the analysis**
 
 #** Usage**
 Feel free to modify the to suit your specific analysis requirements. You can also experiment with different machine learning algorithms and hyperparameters to improve the predictive model's performance.
 
 #** References**
--Scikit-learn Documentation: https://scikit-learn.org/stable/documentation.html
--Matplotlib Documentation: https://matplotlib.org/stable/contents.html
--Seaborn Documentation: https://seaborn.pydata.org/introduction.html
+**-Scikit-learn Documentation: https://scikit-learn.org/stable/documentation.html**
+**-Matplotlib Documentation: https://matplotlib.org/stable/contents.html**
+**-Seaborn Documentation: https://seaborn.pydata.org/introduction.html**
