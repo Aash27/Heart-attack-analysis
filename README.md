@@ -51,10 +51,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - **Summarizing the findings**
 - **Drawing conclusions based on the analysis**
 
-#** Usage**
+## **Usage**
 Feel free to modify the to suit your specific analysis requirements. You can also experiment with different machine learning algorithms and hyperparameters to improve the predictive model's performance.
 
-#** References**
+## **References**
 - **Scikit-learn Documentation: https://scikit-learn.org/stable/documentation.html**
 - **Matplotlib Documentation: https://matplotlib.org/stable/contents.html**
 - **Seaborn Documentation: https://seaborn.pydata.org/introduction.html**
