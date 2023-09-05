@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-This Jupyter Notebook provides a comprehensive analysis of heart attack data using Python. The purpose of this project is to explore, visualize, and analyze a dataset related to heart attacks to gain insights into potential risk factors and predictive factors.
+This project provides a comprehensive analysis of heart attack data using Python. The purpose of this project is to explore, visualize, and analyze a dataset related to heart attacks to gain insights into potential risk factors and predictive factors.
 
 ## **Dataset**
 
