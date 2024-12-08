@@ -24,7 +24,7 @@ You can install these libraries using pip:
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-## ** Analysis Overview**
+## **Analysis Overview**
 
 ## **Data Preprocessing:**
 - **Loading the dataset**
