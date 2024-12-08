@@ -47,10 +47,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - **Generating a confusion matrix**
 - **Visualizing the model's performance**
 
-## **Conclusion:**
-- **Summarizing the findings**
-- **Drawing conclusions based on the analysis**
-
 ## **Usage**
 Feel free to modify the to suit your specific analysis requirements. You can also experiment with different machine learning algorithms and hyperparameters to improve the predictive model's performance.
 
